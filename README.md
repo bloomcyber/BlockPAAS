@@ -8,3 +8,8 @@ Users can avail the services of the Platform at https://nsclab.iiita.ac.in
 Please take a look at the [video][https://www.youtube.com/watch?v=ZpR_Q2gdJvA&t] for the demo.
 
 Refer to the paper ([COMSNETS][https://ieeexplore.ieee.org/abstract/document/10041392/]) for more details. <img src="BlockPaaS(Overview).svg" height="768" width="1024"/>
+
+
+<div align="center">
+  <a href="[https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=ZpR_Q2gdJvA&t)"><img src="https://img.youtube.com/vi/ZpR_Q2gdJvA&t/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
