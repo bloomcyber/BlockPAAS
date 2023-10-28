@@ -5,6 +5,6 @@ Ethereum platform is supported for now.
 
 Users can avail the services of the Platform at https://nsclab.iiita.ac.in
 
-Please take a look at the video( https://www.youtube.com/watch?v=ZpR_Q2gdJvA&t ) for the demo.
+Please take a look at the [video][https://www.youtube.com/watch?v=ZpR_Q2gdJvA&t] for the demo.
 
-Refer to the paper (https://ieeexplore.ieee.org/abstract/document/10041392/) for more details. <img src="BlockPaaS(Overview).svg" height="1024" width="1024"/>
+Refer to the paper ([COMSNETS][https://ieeexplore.ieee.org/abstract/document/10041392/]) for more details. <img src="BlockPaaS(Overview).svg" height="768" width="1024"/>
