@@ -9,7 +9,7 @@ Please take a look at the [video](https://www.youtube.com/watch?v=ZpR_Q2gdJvA&t)
 [![Watch the video](https://img.youtube.com/vi/ZpR_Q2gdJvA/maxresdefault.jpg)](https://youtu.be/ZpR_Q2gdJvA)
 
 <img src="BlockPaaS(Overview).svg" height="768" width="1024"/>
-Refer to the paper ( [COMSNETS](https://ieeexplore.ieee.org/abstract/document/10041392/) ) for more details. 
+Refer to the paper [COMSNETS](https://ieeexplore.ieee.org/abstract/document/10041392/) for more details. 
 
 
 
