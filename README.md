@@ -8,7 +8,7 @@ Users can avail the services of the Platform at [https://nsclab.iiita.ac.in](htt
 Please take a look at the [video](https://www.youtube.com/watch?v=ZpR_Q2gdJvA&t) for the demo.
 [![Watch the video](https://img.youtube.com/vi/ZpR_Q2gdJvA/maxresdefault.jpg)](https://youtu.be/ZpR_Q2gdJvA)
 
-<img src="Overview.png" height="768" width="1024"/>
+<img src="https://github.com/bloomcyber/BlockPAAS/blob/main/Overview.png?raw=true" height="768" width="1024"/>
 
 ![alt text](https://github.com/bloomcyber/BlockPAAS/blob/main/Overview.png?raw=true)
 Refer to the paper [COMSNETS](https://ieeexplore.ieee.org/abstract/document/10041392/) for more details. 
