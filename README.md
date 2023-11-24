@@ -10,11 +10,6 @@ Please take a look at the [video](https://www.youtube.com/watch?v=ZpR_Q2gdJvA&t)
 
 
 
-![Image](https://github.com/bloomcyber/BlockPAAS/blob/main/Overview.png?raw=true)
-![plot](https://github.com/bloomcyber/BlockPAAS/blob/main/Overview.png?raw=true)
-<img src="https://github.com/bloomcyber/BlockPAAS/blob/main/Overview.png?raw=true" height="768" width="1024"/>
-
-![alt text](https://github.com/bloomcyber/BlockPAAS/blob/main/Overview.png?raw=true)
 Refer to the paper [COMSNETS](https://ieeexplore.ieee.org/abstract/document/10041392/) for more details. 
 
 
