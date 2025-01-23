@@ -1,11 +1,12 @@
 # BlockPAAS: Blockchain Platform as a Service
 
-**BlockPAAS** is an innovative platform-as-a-service designed to simplify blockchain integration and testing on IoT hardware. It allows users to create and manage networks of blockchain nodes running on selected IoT devices, such as Raspberry Pi and Android devices. With BlockPAAS, developers and researchers can explore blockchain protocols in real-world resource-constrained environments, ensuring scalability, efficiency, and performance.
+**BlockPAAS** is an innovative platform-as-a-service designed to simplify blockchain integration and testing on IoT hardware. It allows users to create and manage networks of blockchain nodes running on selected IoT devices, such as Raspberry Pi, Beagle Black Bone and Android devices. With BlockPAAS, developers and researchers can explore blockchain protocols in real-world resource-constrained environments, ensuring scalability, efficiency, and performance.
 
 ## Key Features
 - **Custom Blockchain Networks**: Users can create private networks of blockchain nodes using their chosen IoT devices.
 - **Protocol Flexibility**: Select from supported blockchain protocols to run on the hardware (currently supports Ethereum).
-- **Smart Contract Deployment**: Deploy smart contracts directly to the platform's blockchain nodes using [Remix IDE](https://remix.ethereum.org) via an HTTP endpoint provided by the platform.
+- **Smart Contract Deployment and Optimization**: Deploy and optimize smart contracts directly to the platform's blockchain nodes using [Remix IDE](https://remix.ethereum.org) via an HTTP endpoint provided by the platform.
+- **Remote Node Participation**: Users can participate in the created blockchain network of IoT devices remotely as a blockchain node and run extensive tests locally.
 - **Performance Benchmarking**: Analyze and optimize the performance of deployed smart contracts on IoT devices by monitoring:
   - **System Metrics**: RAM usage, CPU utilization, and power consumption.
   - **Blockchain Metrics**: Block size, number of transactions, and hundreds of other real-time blockchain-specific parameters.
